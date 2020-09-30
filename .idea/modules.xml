@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FanJZ/FanJZ.iml" filepath="$PROJECT_DIR$/FanJZ/FanJZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FanXY/FanXY.iml" filepath="$PROJECT_DIR$/FanXY/FanXY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinQ/LinQ.iml" filepath="$PROJECT_DIR$/LinQ/LinQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Supreme-Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Supreme-Leetcode.iml" />
+    </modules>
+  </component>
+</project>
